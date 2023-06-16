@@ -1,5 +1,7 @@
 # Final_Project_Sagemaker
 
+NB: Sagemaker Instance = ml.g4dn.xlarge
+
 To run the code, you don't have to download anything manually.
 Just git clone it on your sagemaker studio using the repository link : "https://github.com/GaldLeduc/Final_Project_Sagemaker.git"
 Then :
